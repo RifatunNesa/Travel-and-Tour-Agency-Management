@@ -1,0 +1,3 @@
+ admin : admin/test123
+user: ni@gmail.com/1234
+     anima/5678
